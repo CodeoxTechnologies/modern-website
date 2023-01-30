@@ -12,9 +12,9 @@ const Header = () => {
 
       <div className="gpt3__header-content__input">
         <input type="email" placeholder="Your Email Address" />
-        {/* <button onclick=alert('qwewer')>Click me</button> */}
+     
 
-         <button onClick={alert('qwer')}>startme</button> 
+         <button onClick={1}>startme</button> 
         
 
 
